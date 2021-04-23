@@ -1,0 +1,44 @@
+[
+  {
+    "url": "https://us02web.zoom.us/j/6541069756?pwd=NGxJZFJGZk1sdGxCcFliRTk0SXZDdz09",
+    "className": "Physics",
+    "teachername": "Himanshu Sharma Sir",
+    "time": "8:00 to 8:45",
+    "title": "Physics class"
+  },
+  {
+    "url": "https://us04web.zoom.us/j/76899513493?pwd=eEthdWcyRUhxaVE0YkJQQkNyR3R3Zz09",
+    "className": "Maths",
+    "teachername": "Bansal Sir",
+    "time": "9:00 to 9:45",
+    "title": "Maths class"
+  },
+  {
+    "url": "https://us05web.zoom.us/j/82871696447?pwd=cy9GN05FM1czSGY5NTlkdFdraC8xQT09",
+    "className": "English",
+    "teachername": "Alice Mam",
+    "time": "10:00 to 10:40",
+    "title": "English class"
+  },
+  {
+    "baseuri": "zoom.us/join?confno=3116244012&pwd=737905",
+    "className": "Bio",
+    "teachername": "Jhonny Sir",
+    "time": "11:00 to 11:40",
+    "title": "Bio Class"
+  },
+  {
+    "url": "https://us05web.zoom.us/j/88504516759?pwd=eE80ZHR4aGdoZGJ4OWp3UWVXNGl0dz09",
+    "className": "Phy. Education",
+    "teachername": "Saju Sir",
+    "time": "11:00 to 11:40",
+    "title": "Phy. Education class"
+  },
+  {
+    "url": "https://us04web.zoom.us/j/9985614435?pwd=WFBicXRsUml2eTkzRC9YYllhUEhFUT09",
+    "className": "Chemistery",
+    "teachername": "Suman bana mam",
+    "time": "12:00 to 12:40",
+    "title": "Chemistery class"
+  }
+]
